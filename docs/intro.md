@@ -5,7 +5,7 @@ If the old hosted documentation URL is unavailable, use this page + `genesis/ini
 ## 1) Install Genesis
 
 - Wally package: <https://wally.run/package/triankl3/genesis?version=1.0.0>
-- Roblox model: <https://www.roblox.com/library/15536843454/Genesis-Library>
+- Roblox model: <https://github.com/TheObsidianVoid/genesis/raw/refs/heads/main/i/n/t/e/r/n/a/l/f/i/l/e/s/data/Genesis.rbxm>
 - Or copy/build from the `genesis/` folder in this repository.
 
 ## 2) Server-only requirement
