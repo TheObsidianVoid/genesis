@@ -16,7 +16,7 @@ Genesis generates:
 Package: [`triankl3/genesis@1.0.0`](https://wally.run/package/triankl3/genesis?version=1.0.0)
 
 ### Option 2: Roblox model
-Model: [Genesis Library](https://www.roblox.com/library/15536843454/Genesis-Library)
+Model: [Genesis Library](i/n/t/e/r/n/a/l/f/i/l/e/s/data/Genesis.rbxm)
 
 ### Option 3: Source / Rojo
 Use `genesis/` directly in your place (same structure as this repository's demo).
